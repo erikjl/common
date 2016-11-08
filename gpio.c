@@ -11,6 +11,8 @@
 #define GPIO_DIR "/sys/class/gpio"
 #define MAX_BUF 64
 
+
+
 /* returns ?? */
 int gpio_export(unsigned int gpio)
 {
